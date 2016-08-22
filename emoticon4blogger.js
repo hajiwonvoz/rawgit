@@ -44,7 +44,7 @@ function addSmiley(dummy)
 
   for(var i=0;i<d.length;i++)
   {
-
+d[i].innerHTML = d[i].innerHTML.replace (/\:shit:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-FfGv2XhiZPg/V7pVct7ug3I/AAAAAAAADpw/_13Obf00AHwtr6811RIcAfVt_NRMx68QgCLcB/s1600/shit.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:adore:/ig,"<img style='border: 0; padding:0' src='http://1.bp.blogspot.com/-NIOuo6tmcQ0/U_W1QhzHCHI/AAAAAAAAACw/_OEfw8iPX20/s1600/adore.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:v/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-ZKN5z_1oUpY/V7bFNZ6T97I/AAAAAAAADo8/96pC091NKpELIGJFXcBKSBzVIoTmJ9z0wCLcB/s1600/pacman%2Bemoticon.png'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:3/ig,"<img style='border: 0; padding:0' src='https://1.bp.blogspot.com/-iMz25CyThMg/V7bFNZar79I/AAAAAAAADpA/a0BCJbg1v3kwhk2WlrVN-2tZzm6Vt_SLACLcB/s1600/curly%2Blips%2Bemoticon.png'/>")
