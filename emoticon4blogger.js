@@ -84,7 +84,7 @@ d[i].innerHTML = d[i].innerHTML.replace (/\:boom:/ig,"<img style='border: 0; pad
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:boss:/ig,"<img style='border: 0; padding:0' src='https://3.bp.blogspot.com/-jG_JnAgmMgc/V71VfJlkKuI/AAAAAAAADrY/Y7_uA48MMrIfXUQGimvEavKSlGwYr0QsQCLcB/s1600/boss.gif'/>")
 
-d[i].innerHTML = d[i].innerHTML.replace (/\:gach:/ig,"<img style='border: 0; padding:0' src='https://2.bp.blogspot.com/-z6tX-6HLEsk/V71VfaWrrdI/AAAAAAAADrc/tIInxh1Kdrk2CQ5st_8GJYrxCQKIhVtywCLcB/s1600/brick.png
+d[i].innerHTML = d[i].innerHTML.replace (/\:gach:/ig,"<img style='border: 0; padding:0' src='https://2.bp.blogspot.com/-z6tX-6HLEsk/V71VfaWrrdI/AAAAAAAADrc/tIInxh1Kdrk2CQ5st_8GJYrxCQKIhVtywCLcB/s1600/brick.png'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:stick:/ig,"<img style='border: 0; padding:0' src='https://1.bp.blogspot.com/-_JAXpgSxaEo/V71VfZymZpI/AAAAAAAADrg/6abXThYeey8Y54jRU3qyNP9BruBhkI0rgCLcB/s1600/burn_joss_stick.gif'/>")
 
