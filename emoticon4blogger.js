@@ -37,11 +37,11 @@ function addSmiley(dummy)
   }
   for(var i=0;i<d.length;i++)
   {
+d[i].innerHTML = d[i].innerHTML.replace (/\:aboom:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/after_boom.gif'/>") 
+
 d[i].innerHTML = d[i].innerHTML.replace (/\:sexy:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/sexy_girl.gif'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:adore:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/adore.gif'/>")
-
-d[i].innerHTML = d[i].innerHTML.replace (/\:aboom:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/after_boom.gif'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:ah:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/ah.gif'/>")
 
