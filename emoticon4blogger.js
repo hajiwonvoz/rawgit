@@ -44,8 +44,8 @@ function addSmiley(dummy)
 
   for(var i=0;i&lt;d.length;i++)
   {
-d[i].innerHTML = d[i].innerHTML.replace (/\:look_down:/ig,&quot;<img src='https://2.bp.blogspot.com/-wMxc7Za8buE/V71VkEVqGOI/AAAAAAAADtQ/O2mhmw65llsfh79DCrgvILEoJfIH9tmawCLcB/s1600/look_down.gif' style='border: 0; padding:0'/>&quot;)
 d[i].innerHTML = d[i].innerHTML.replace (/\:sexy:/ig,&quot;<img src='https://2.bp.blogspot.com/-iN4J4WXK-l0/V71Vna6yBgI/AAAAAAAADug/lZ2rJq0TduEiao09fo9jI4-Y2YTb9vdYACLcB/s1600/sexy_girl.gif' style='border: 0; padding:0'/>&quot;)
+d[i].innerHTML = d[i].innerHTML.replace (/\:look_down:/ig,&quot;<img src='https://2.bp.blogspot.com/-wMxc7Za8buE/V71VkEVqGOI/AAAAAAAADtQ/O2mhmw65llsfh79DCrgvILEoJfIH9tmawCLcB/s1600/look_down.gif' style='border: 0; padding:0'/>&quot;)
 d[i].innerHTML = d[i].innerHTML.replace (/\:go:/ig,&quot;<img src='https://4.bp.blogspot.com/-OXN31inxKoI/V71VicJ5R2I/AAAAAAAADso/nCK4Q-paP9oKuct-qJoeZrtn9B3P5KlhgCLcB/s1600/go.gif' style='border: 0; padding:0'/>&quot;)
 d[i].innerHTML = d[i].innerHTML.replace (/\:sweat:/ig,&quot;<img src='https://vozforums.com/images/smilies/Off/sweat.gif' style='border: 0; padding:0'/>&quot;)
 d[i].innerHTML = d[i].innerHTML.replace (/\:adore:/ig,&quot;<img src='https://4.bp.blogspot.com/-gaP-Kj93dkU/V71VcaODO_I/AAAAAAAADqQ/89nr3LO8TuAoa1oM97O-SmcuBejhgf0TwCLcB/s1600/adore.gif' style='border: 0; padding:0'/>&quot;)
