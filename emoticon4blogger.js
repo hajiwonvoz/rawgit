@@ -5,8 +5,6 @@ var sbValues= new Array();
 
 document.getElementById(bookmarktext.id).innerHTML = sbValues[index];
 }
-
-
 document.getElementsByClassName = function(clsName){
     var retVal = new Array();
     var elements = document.getElementsByTagName("*");
@@ -134,11 +132,11 @@ d[i].innerHTML = d[i].innerHTML.replace (/\:welcome:/ig,"<img style='border: 0; 
 d[i].innerHTML = d[i].innerHTML.replace (/\:what:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/what.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:winner:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/winner.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:yes:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/yes.gif'/>")
-d[i].innerHTML = d[i].innerHTML.replace (/\:v/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/pacman%2Bemoticon.png'/>")
-d[i].innerHTML = d[i].innerHTML.replace (/\:3/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/curly%2Blips%2Bemoticon.png'/>")
+d[i].innerHTML = d[i].innerHTML.replace (/\:\v/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/pacman%2Bemoticon.png'/>")
+d[i].innerHTML = d[i].innerHTML.replace (/\:\3/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/curly%2Blips%2Bemoticon.png'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:after_boom:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/after_boom.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:beat_brick:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/beat_brick.gif'/>")
-d[i].innerHTML = d[i].innerHTML.replace (/\:*/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/sweet_kiss.gif'/>")
+d[i].innerHTML = d[i].innerHTML.replace (/\:\*/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/sweet_kiss.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:\)\)/ig,"<img style='border: 0; padding:0' src='http://us.i1.yimg.com/us.yimg.com/i/mesg/emoticons7/21.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace(/\w-\)/ig,"<img style='border: 0; padding:0' src='http://us.i1.yimg.com/us.yimg.com/i/mesg/emoticons7/5.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:\-j/ig,"<img style='border: 0; padding:0' src='http://us.i1.yimg.com/us.yimg.com/i/mesg/emoticons7/78.gif'/>")
