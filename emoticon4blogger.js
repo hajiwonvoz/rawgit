@@ -37,6 +37,8 @@ function addSmiley(dummy)
   }
   for(var i=0;i<d.length;i++)
   {
+d[i].innerHTML = d[i].innerHTML.replace (/\:sexy:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/sexy_girl.gif'/>")
+
 d[i].innerHTML = d[i].innerHTML.replace (/\:adore:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/adore.gif'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:aboom:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/after_boom.gif'/>")
@@ -170,8 +172,6 @@ d[i].innerHTML = d[i].innerHTML.replace (/\:rofl:/ig,"<img style='border: 0; pad
 d[i].innerHTML = d[i].innerHTML.replace (/\:runrun:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/runrun.gif'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:sad:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/sad.gif'/>")
-
-d[i].innerHTML = d[i].innerHTML.replace (/\:sexy:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/sexy_girl.gif'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:shame:/ig,"<img style='border: 0; padding:0' src='https://key24h.com/public/images/smilies/Off/shame.gif'/>")
 
