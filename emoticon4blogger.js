@@ -44,6 +44,7 @@ function addSmiley(dummy)
 
   for(var i=0;i<d.length;i++)
   {
+d[i].innerHTML = d[i].innerHTML.replace (/\:lol:/ig,"<img style='border: 0; padding:0' src='https://1.bp.blogspot.com/-jMTevojn6TI/V71Vj4pZClI/AAAAAAAADtI/lmBsyOTeNX8CjaboLmxVe3cq0vTx4kY3wCLcB/s1600/lol.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:aboom:/ig,"<img style='border: 0; padding:0' src='https://3.bp.blogspot.com/-9OXI_INf41E/V71VcUFYCII/AAAAAAAADqU/tdkjo3G-1M4o4ipbwRau6bjypMmPsBIxACLcB/s1600/after_boom.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:sexy:/ig,"<img style='border: 0; padding:0' src='https://2.bp.blogspot.com/-iN4J4WXK-l0/V71Vna6yBgI/AAAAAAAADug/lZ2rJq0TduEiao09fo9jI4-Y2YTb9vdYACLcB/s1600/sexy_girl.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:adore:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-gaP-Kj93dkU/V71VcaODO_I/AAAAAAAADqQ/89nr3LO8TuAoa1oM97O-SmcuBejhgf0TwCLcB/s1600/adore.gif'/>")
@@ -92,7 +93,6 @@ d[i].innerHTML = d[i].innerHTML.replace (/\:hug:/ig,"<img style='border: 0; padd
 d[i].innerHTML = d[i].innerHTML.replace (/\:hungry:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-HW6Uv5_GPQ4/V71Vj3RjSGI/AAAAAAAADtM/5tYdyq3zl2sZb0rewBkBw0uaeClYohgdQCLcB/s1600/hungry.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\^:)^/ig,"<img style='border: 0; padding:0' src='https://3.bp.blogspot.com/-1SBBmAoKNEs/V71VjmkzCYI/AAAAAAAADtA/BfuzTW20Gekfj6c7ZvvaiFsvEb_fL9hYQCLcB/s1600/lay.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:lmao:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-kJWP_IAY_jc/V71Vj-MykzI/AAAAAAAADtE/MOG-CnkdJrE53zeQ_0DHGXHYDfQR4nWPACLcB/s1600/lmao.gif'/>")
-d[i].innerHTML = d[i].innerHTML.replace (/\:lol:/ig,"<img style='border: 0; padding:0' src='https://1.bp.blogspot.com/-jMTevojn6TI/V71Vj4pZClI/AAAAAAAADtI/lmBsyOTeNX8CjaboLmxVe3cq0vTx4kY3wCLcB/s1600/lol.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:look_down:/ig,"<img style='border: 0; padding:0' src='https://2.bp.blogspot.com/-wMxc7Za8buE/V71VkEVqGOI/AAAAAAAADtQ/O2mhmw65llsfh79DCrgvILEoJfIH9tmawCLcB/s1600/look_down.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:lovemachine:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-2I4FOmblLnk/V71Vkd2gt2I/AAAAAAAADtU/_WLF-aGlvpQqm1ROA2VrwmOExXpyz1yZgCLcB/s1600/lovemachine.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:loveyou:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-JrssSRUt48U/V71Vkcz7DCI/AAAAAAAADtY/NpnVvretS0IRimuZBGrERnzb_0J1NUYAgCLcB/s1600/loveyou.gif'/>")
