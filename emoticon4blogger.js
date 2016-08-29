@@ -84,7 +84,7 @@ d[i].innerHTML = d[i].innerHTML.replace (/\:fix:/ig,"<img style='border: 0; padd
 d[i].innerHTML = d[i].innerHTML.replace (/\:flame:/ig,"<img style='border: 0; padding:0' src='https://2.bp.blogspot.com/-oy795a5HCME/V71ViSkYbUI/AAAAAAAADsk/ZNX7WRPgC4Ao0fV-n4702PTeC6mKModPACLcB/s1600/flame.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:go:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-OXN31inxKoI/V71VicJ5R2I/AAAAAAAADso/nCK4Q-paP9oKuct-qJoeZrtn9B3P5KlhgCLcB/s1600/go.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:haha:/ig,"<img style='border: 0; padding:0' src='https://3.bp.blogspot.com/-rO79eMSnfB8/V71VibaPw2I/AAAAAAAADss/4RoZcVqkyesvNoJLCG4P9dREpgCmsTwogCLcB/s1600/haha.gif'/>")
-d[i].innerHTML = d[i].innerHTML.replace (/\:hang:/ig,"<img style='border: 0; padding:0' src='https://vozforums.com/images/smilies/Off/hang.gif'/>")
+d[i].innerHTML = d[i].innerHTML.replace (/\:hang1:/ig,"<img style='border: 0; padding:0' src='https://vozforums.com/images/smilies/Off/hang.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:hehe:/ig,"<img style='border: 0; padding:0' src='https://1.bp.blogspot.com/-xemmXKknsQE/V71Vi1AvCzI/AAAAAAAADs0/-uHgRE-miuwOcdxw6PE08TTNWaV56I9JACLcB/s1600/hehe.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:hell_boy:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-WVCYoadGXME/V71Vi147NuI/AAAAAAAADs4/9zIEITeHHlITt0s9grFUSydS2CafxT4VwCLcB/s1600/hell_boy.gif'/>")
 d[i].innerHTML = d[i].innerHTML.replace (/\:hug:/ig,"<img style='border: 0; padding:0' src='https://2.bp.blogspot.com/-hcrbucAlVP4/V71VjIjxouI/AAAAAAAADs8/ZvbQMZjaMfoYenBU0SNV4FwpCeI9yiXTgCLcB/s1600/hug.gif'/>")
