@@ -114,8 +114,6 @@ d[i].innerHTML = d[i].innerHTML.replace (/\:doubt:/ig,"<img style='border: 0; pa
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:dribble:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-rq-KwTPDLaA/V71VhopDsQI/AAAAAAAADsU/4crnFe3F1v4PwekwVsIE8HuLTx3wTPozACLcB/s1600/dribble.gif'/>")
 
-d[i].innerHTML = d[i].innerHTML.replace (/\:">/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-rWQOrMcyRzU/V71VhhsnVYI/AAAAAAAADsY/FpzhWCry9Pc0Z2OomRoj9AbR6OkMUYwegCLcB/s1600/embarrassed.gif'/>")
-
 d[i].innerHTML = d[i].innerHTML.replace (/\:sogood:/ig,"<img style='border: 0; padding:0' src='https://1.bp.blogspot.com/-M000A0x2TEA/V71VhysSBOI/AAAAAAAADsc/XIFvmDhc7xISaYflw_pYLYdYDXgYlcz5QCLcB/s1600/feel_good.gif'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:fix:/ig,"<img style='border: 0; padding:0' src='https://4.bp.blogspot.com/-gmfcoYXirfo/V71ViJJsLHI/AAAAAAAADsg/kHVfsELgsuEFzff5BckeZooXmssqOWp5gCLcB/s1600/fix.gif'/>")
@@ -225,8 +223,6 @@ d[i].innerHTML = d[i].innerHTML.replace (/\:3/ig,"<img style='border: 0; padding
 d[i].innerHTML = d[i].innerHTML.replace (/\:after_boom:/ig,"<img style='border: 0; padding:0' src='http://3.bp.blogspot.com/--ZPqFuFLKL0/U_W1X3QvUCI/AAAAAAAAAEE/ci7GVP5_BIw/s1600/after_boom.gif'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:beat_brick:/ig,"<img style='border: 0; padding:0' src='http://1.bp.blogspot.com/-BlT_JMqKXOw/U_W1StpqGhI/AAAAAAAAADI/rqJ4wEgvU2M/s1600/beat_brick.gif'/>")
-
-d[i].innerHTML = d[i].innerHTML.replace (/\:*/ig,"<img style='border: 0; padding:0' src='https://3.bp.blogspot.com/-BKEudtiWhOY/V71VqNptCuI/AAAAAAAADvc/AjEQTNNCErc3jn9nrbcmAJv_jwOntSWoQCLcB/s1600/sweet_kiss.gif'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:\)\)/ig,"<img style='border: 0; padding:0' src='http://us.i1.yimg.com/us.yimg.com/i/mesg/emoticons7/21.gif'/>")
 
