@@ -46,7 +46,6 @@ function addSmiley(dummy)
   {
 d[i].innerHTML = d[i].innerHTML.replace (/\:lol:/ig,"<img style='border: 0; padding:0' src='https://1.bp.blogspot.com/-jMTevojn6TI/V71Vj4pZClI/AAAAAAAADtI/lmBsyOTeNX8CjaboLmxVe3cq0vTx4kY3wCLcB/s1600/lol.gif'/>")
 
-
 d[i].innerHTML = d[i].innerHTML.replace (/\:aboom:/ig,"<img style='border: 0; padding:0' src='https://3.bp.blogspot.com/-9OXI_INf41E/V71VcUFYCII/AAAAAAAADqU/tdkjo3G-1M4o4ipbwRau6bjypMmPsBIxACLcB/s1600/after_boom.gif'/>")
 
 d[i].innerHTML = d[i].innerHTML.replace (/\:sexy:/ig,"<img style='border: 0; padding:0' src='https://2.bp.blogspot.com/-iN4J4WXK-l0/V71Vna6yBgI/AAAAAAAADug/lZ2rJq0TduEiao09fo9jI4-Y2YTb9vdYACLcB/s1600/sexy_girl.gif'/>")
